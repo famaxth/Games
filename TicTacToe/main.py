@@ -4,7 +4,6 @@ import pygame
 
 pygame.init()
 
-
 SCREEN_SIZE = (300, 300)
 window = pygame.display.set_mode(SCREEN_SIZE)
 screen = pygame.Surface(SCREEN_SIZE)
